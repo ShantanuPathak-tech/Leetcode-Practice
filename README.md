@@ -18,6 +18,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +29,5 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
