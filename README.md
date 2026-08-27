@@ -20,6 +20,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
