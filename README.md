@@ -15,6 +15,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
@@ -39,6 +40,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
