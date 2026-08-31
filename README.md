@@ -20,6 +20,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
@@ -43,6 +44,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
@@ -58,6 +60,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Simulation
@@ -80,4 +83,16 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
