@@ -19,6 +19,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
@@ -35,6 +36,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
@@ -55,6 +57,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Simulation
@@ -69,4 +72,12 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
