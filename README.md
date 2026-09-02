@@ -19,6 +19,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
@@ -86,6 +87,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -95,4 +97,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
