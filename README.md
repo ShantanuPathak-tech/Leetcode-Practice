@@ -20,6 +20,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0027-remove-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
@@ -35,6 +36,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
@@ -119,5 +121,6 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
