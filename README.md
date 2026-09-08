@@ -22,6 +22,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0035-search-insert-position](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -78,6 +79,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Number Theory
@@ -122,5 +124,6 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
