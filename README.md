@@ -50,6 +50,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
@@ -169,4 +170,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0069-sqrtx/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
