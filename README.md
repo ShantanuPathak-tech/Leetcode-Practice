@@ -42,6 +42,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0485-max-consecutive-ones](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Math
@@ -84,6 +85,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +157,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
