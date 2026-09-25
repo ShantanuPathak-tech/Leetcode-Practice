@@ -44,6 +44,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Math
@@ -91,6 +92,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
