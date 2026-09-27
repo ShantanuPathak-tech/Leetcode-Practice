@@ -40,6 +40,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0229-majority-element-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -94,6 +95,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -159,6 +161,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -185,4 +189,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
