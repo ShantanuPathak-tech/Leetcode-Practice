@@ -48,6 +48,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Math
@@ -99,6 +100,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
