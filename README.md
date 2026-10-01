@@ -55,6 +55,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0069-sqrtx/) | Easy |
@@ -188,6 +189,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 ## Greedy
@@ -197,5 +199,6 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
