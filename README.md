@@ -189,8 +189,13 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
