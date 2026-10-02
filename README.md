@@ -201,4 +201,5 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
