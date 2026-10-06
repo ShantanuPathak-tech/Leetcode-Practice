@@ -75,6 +75,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
