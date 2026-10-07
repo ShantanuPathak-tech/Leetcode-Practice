@@ -200,6 +200,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Greedy
@@ -213,6 +214,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0141-linked-list-cycle](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
