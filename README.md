@@ -74,6 +74,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -124,6 +125,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0015-3sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
@@ -155,6 +157,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -217,6 +220,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0061-rotate-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0206-reverse-linked-list/) | Easy |
@@ -233,4 +237,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
