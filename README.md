@@ -48,6 +48,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0875-koko-eating-bananas](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -227,11 +228,13 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +244,16 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
