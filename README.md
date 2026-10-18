@@ -145,6 +145,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -234,6 +235,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -256,4 +258,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1472-design-browser-history/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
