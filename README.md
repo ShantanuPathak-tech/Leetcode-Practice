@@ -16,6 +16,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -147,6 +148,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -267,4 +269,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
