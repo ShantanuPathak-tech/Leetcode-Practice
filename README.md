@@ -98,6 +98,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
@@ -133,6 +134,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
@@ -152,6 +154,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
