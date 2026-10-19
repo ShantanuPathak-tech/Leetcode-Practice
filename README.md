@@ -152,6 +152,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
+| [0796-rotate-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
@@ -275,4 +276,8 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
