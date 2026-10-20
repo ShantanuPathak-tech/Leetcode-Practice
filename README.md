@@ -155,6 +155,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
