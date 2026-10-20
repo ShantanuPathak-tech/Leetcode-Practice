@@ -7,7 +7,7 @@ public:
         while(low <= high){
             int mid = low + (high - low) / 2;
             if(nums[mid] == target) return true;
-            if(nums[low] == nums[mid] && nums[mid] == nums[high]){
+            if(nums[low] == nums[mid] && nums[mid] == nums[high]){//If there are duplicates then this line would continue the iteration
                 low++;
                 high--;
                 continue;
