@@ -77,6 +77,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0031-next-permutation](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
@@ -160,6 +161,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0012-integer-to-roman](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
