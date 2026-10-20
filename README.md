@@ -58,6 +58,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0069-sqrtx/) | Easy |
@@ -90,6 +91,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -151,6 +153,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
