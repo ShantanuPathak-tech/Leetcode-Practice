@@ -66,6 +66,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0189-rotate-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [1017-convert-to-base-2](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1017-convert-to-base-2/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
