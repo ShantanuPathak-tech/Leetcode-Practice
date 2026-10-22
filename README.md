@@ -47,6 +47,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -245,6 +246,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0860-lemonade-change/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
