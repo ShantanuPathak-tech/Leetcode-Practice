@@ -25,6 +25,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0033-search-in-rotated-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
@@ -206,6 +207,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -246,6 +248,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
