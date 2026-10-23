@@ -44,6 +44,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -148,6 +149,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0229-majority-element-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2418-sort-the-people](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/2418-sort-the-people/) | Easy |
@@ -213,6 +215,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0119-pascals-triangle-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +254,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | [0045-jump-game-ii](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0860-lemonade-change/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
