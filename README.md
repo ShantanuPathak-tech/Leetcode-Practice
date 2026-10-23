@@ -8,7 +8,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 
 ## 💻 Tech Stack
 - Language: C++
-- Automation: LeetSync Extension
+- Automation: LeetHub Extension
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
