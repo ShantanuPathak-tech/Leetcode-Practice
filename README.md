@@ -101,6 +101,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -167,6 +168,7 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
@@ -321,5 +323,6 @@ Welcome to my LeetCode solutions repository! This repo is automatically updated 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShantanuPathak-tech/Leetcode-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
